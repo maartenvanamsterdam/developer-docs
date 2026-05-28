@@ -79,7 +79,7 @@ pnpm dev
 You can also use:
 
 ````
-```
+```ts
 const name = "MVA Labs";
 ```
 ````
