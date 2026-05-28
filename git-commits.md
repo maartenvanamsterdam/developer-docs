@@ -1,4 +1,4 @@
-# Git Commit Conventions
+# Git Commits Cheatsheet
 
 ## Format
 

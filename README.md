@@ -28,8 +28,8 @@ This repository serves as a personal knowledge base for documenting:
 docs/
 ├── git-commands.md
 ├── git-commits.md
-├── markdown-cheatsheet.md
-└── react-notes.md
+├── markdown.md
+└── gh-cli.md
 ```
 
 ## Tools

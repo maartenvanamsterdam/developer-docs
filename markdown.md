@@ -78,8 +78,8 @@ pnpm dev
 
 You can also use:
 
-````md
-```ts
+````
+```
 const name = "MVA Labs";
 ```
 ````
